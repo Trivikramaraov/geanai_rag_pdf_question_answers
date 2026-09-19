@@ -8,7 +8,7 @@ from rag_utility import document_process_to_Chroma_db, question_answer
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 
-st.title("🏆 PDF RAG Question Answering")
+st.title("🧠 RAG-Based PDF Assistant")
 
 
 # File uploader widget
